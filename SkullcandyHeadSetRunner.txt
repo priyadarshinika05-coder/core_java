@@ -1,7 +1,0 @@
-class SkullcandyHeadSetRunner{
-    public static void main(String[] args){
-	System.out.println(" Skullcandy Brand Name is:"+Skullcandy.Brand);
-	System.out.println(" Skullcandy batteryHours:"+Skullcandy.battery Hours);
-	System.out.println(" Skullcandy price:"+Skullcandy.price );
-	}
-	}
